@@ -47,3 +47,15 @@ https://www.helderrezende.com/api/v1/resources/recommendation?capital=40000&atri
 
 ```
 
+## Custo:
+
+* Desenvolvimento de uma página.
+* Equipe com dois cientista de dados e um Dev.
+* Desenvolvimento de um ChatBot completo.
+
+Funcionários: 45k e Estrutura: 2k
+
+
+
+
+
