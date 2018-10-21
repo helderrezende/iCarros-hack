@@ -27,3 +27,23 @@ Foram feitos as seguintes etapas:
 * Linguages de programação: Python e C#
 * Frameworks: Flask(Web), Microsoft Bot Framework e BeautifulSoup
 
+## Exemplo de consumo da API
+
+Filtro realizado por:
+
+* Capital
+* Atributos - ordem: [Conforto / Acabamento, Consumo, Custo / Benefício, Design, Dirigibilidade, Manutenção, Performance]
+
+Ou seja, para um cliente que queira gastar 40 mil reais e tem a seguinte preferência:
+
+* 1 - Custo / Benefício
+* 2 - Consumo
+* 3 - Dirigibilidade
+
+
+```
+
+https://www.helderrezende.com/api/v1/resources/recommendation?capital=40000&atributos=[0,2,1,0,3,0,0]
+
+```
+
