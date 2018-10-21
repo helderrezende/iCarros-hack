@@ -1,0 +1,88 @@
+/*---- Setting----*/
+.setting{
+	width:255px;
+	background:#f2f2f2;
+	border:7px solid #fff;
+	box-shadow:1px 1px 2px 0px #ccc;
+	z-index:999;
+	margin-left:45px;
+	transition-duration:0.5s;
+}
+.setting h5{
+	color:#333;
+	padding:0px;
+	margin:0px;
+	margin-bottom:10px;
+	font-size:14px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.setting-btn{
+	width:45px;
+	height:45px;
+	float:left;
+	background:#d11717;
+	margin-left:-52px;
+	cursor:pointer;
+	margin-top:110px;
+	color:#fff;
+	line-height:45px;
+	text-align:center;
+	font-size:18px;
+}
+.model-display{
+	margin-bottom:10px;
+	display:inline-block;
+	width:100%;
+	padding:10px;
+	background:#fff;
+	position:relative;
+}
+.model-display::before{
+	position:absolute;
+	top:-20px;
+    left: 10px;
+    content: '';
+    border-style: solid;
+    border-width: 10px;
+    border-top-color: rgba(0, 0, 0, 0);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-bottom-color:#fff;
+}
+.model-display li{
+	float:left;
+	padding:7px 20px;
+	height:38px;
+	background:#f5f5f5;	
+	border-radius:2px;
+	color:#333;
+	margin-right:7px;
+	position:relative;
+	cursor:pointer;
+	-webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.model-display li.active{
+	background:#d11717;
+	color:#fff;
+}
+.model-display li.s-color-1{
+	background:#333;
+	background-size:200%;
+}
+.model-display li.s-color-2{
+	background:#111;
+	background-size:200%;
+}
+.model-display li.s-color-3{
+	background:#444;
+	background-size:200%;
+}
+.model-display li.s-color-4{
+	background:#999;
+	background-size:200%;
+}

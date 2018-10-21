@@ -1,0 +1,6 @@
+
+*.pyc
+.ipynb_checkpoints/sentiment-checkpoint.ipynb
+.ipynb_checkpoints/mais_vendidos-checkpoint.ipynb
+.ipynb_checkpoints/set_image-checkpoint.ipynb
+.ipynb_checkpoints/tests-checkpoint.ipynb
