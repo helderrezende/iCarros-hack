@@ -15,12 +15,13 @@ Equipe:
 Foram feitos as seguintes etapas:
 
 * Crawler do site da iCarros na parte da opinião do dono (https://www.icarros.com.br/opiniao-carros/ranking.jsf).
-* Organização do Dataset.
+* Organização do Dataset. Por exemplo: crawler dos mais vendidos (https://www.noticiasautomotivas.com.br/os-carros-mais-vendidos-do-primeiro-semestre-de-2018/).
 * Sistema de pontuação de produtos.
 * Classificação não supervisionada utilizando os comentários positivos dos avaliadores.
 * Criação de uma API REST para o consumo da recomendação.
 * Implementação de um ChatBot (Microsoft Bot Framework) que utiliza a API de recomendação de carros.
 * Site criado para apresentação do projeto (https://www.helderrezende.com/icarros)
+* 
 
 ## Tecnologias usadas
 
@@ -55,7 +56,16 @@ https://www.helderrezende.com/api/v1/resources/recommendation?capital=40000&atri
 
 Funcionários: 30k e Estrutura: 2k
 
+# Manutenção
+
+* Uma página
+* Suporte ao ChatBot
+* Melhorias na recomendação
+
 
 ## Estrutura
 ![alt text](https://i.imgur.com/1sNvKyU.png)
+
+
+https://www.noticiasautomotivas.com.br/os-carros-mais-vendidos-do-primeiro-semestre-de-2018/
 
