@@ -6,7 +6,7 @@ A ideia principal da equipe é criar uma espécia de robo-advisor para o setor d
 
 Equipe:
   - **Helder Rezende (Dados)**
-  - **Renato Martins (Dev)**
+  - **Renato Martins (Dev)** https://github.com/renatomvj
   - **Matheus Pinheiro (Negócio)**
   
 
@@ -56,6 +56,6 @@ https://www.helderrezende.com/api/v1/resources/recommendation?capital=40000&atri
 Funcionários: 30k e Estrutura: 2k
 
 
-
-
+## Estrutura
+![alt text](https://i.imgur.com/1sNvKyU.png)
 
