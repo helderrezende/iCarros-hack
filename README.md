@@ -2,9 +2,11 @@
 
 Códigos realizados pela equipe ACR no Hackathon realizado nos dias 20 e 21 de outubro de 2018.
 
+A ideia principal da equipe é criar uma espécia de robo-advisor para o setor de carros.
+
 Equipe:
   - **Helder Rezende (Dados)**
-  - **Renato Martis (Dev)**
+  - **Renato Martins (Dev)**
   - **Matheus Pinheiro (Negócio)**
   
 
@@ -19,4 +21,9 @@ Foram feitos as seguintes etapas:
 * Criação de uma API REST para o consumo da recomendação.
 * Implementação de um ChatBot (Microsoft Bot Framework) que utiliza a API de recomendação de carros.
 * Site criado para apresentação do projeto (https://www.helderrezende.com/icarros)
+
+## Tecnologias usadas
+
+* Linguages de programação: Python e C#
+* Frameworks: Flask(Web), Microsoft Bot Framework e BeautifulSoup
 
